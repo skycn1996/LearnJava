@@ -15,30 +15,27 @@
 	<bean id="carFactory" class="entity.InstanceCarFactory"></bean>
 	
 	<!-- 通过实例工厂对象创建car对象 -->
-	<bean id="car2" factory-bean="carFactory" factory-method="getCar">
+<!--	<bean id="car2" factory-bean="carFactory" factory-method="getCar">
 		<constructor-arg value="2"></constructor-arg>
-	</bean> 
+	</bean> -->
 	
-	<!-- 
-	<bean id="person" class="entity.Person" autowire="byName"> 
+<!--	<bean id="person" class="entity.Person" autowire="byName">
+		<property name="id" value="1"></property>
+		<property name="name" value="张三"></property>
+		&lt;!&ndash;<property name="car" ref="car3"></property>&ndash;&gt;
+	</bean>-->
+
+	<bean id="person" class="entity.Person" autowire="byType">
 		<property name="id" value="1"></property>
 		<property name="name" value="张三"></property>
 	</bean>
-	 -->
-	 
-	<bean id="person" class="entity.Person" autowire="byType"> 
-		<property name="id" value="1"></property>
-		<property name="name" value="张三"></property>
-	</bean>
-	
-	<!-- 
-	<bean id="car" class="entity.StaticCarFactory" factory-method="getCar">
+
+<!--	<bean id="car" class="entity.StaticCarFactory" factory-method="getCar">
 		<constructor-arg value="2"></constructor-arg>
-	</bean>
-	 -->
-	 
-	<bean id="car3" class="entity.StaticCarFactory" factory-method="getCar">
+	</bean>-->
+
+<!--	<bean id="car3" class="entity.StaticCarFactory" factory-method="getCar">
 		<constructor-arg value="1"></constructor-arg>
-	</bean>
+	</bean>-->
 	
 </beans>

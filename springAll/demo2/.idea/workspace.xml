@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a66f400c-b2df-4c78-982c-ba393444eaaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/entity/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/entity/InstanceCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/entity/StaticCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo3/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo3/src/test/java/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/src/main/resources/spring.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -195,7 +188,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614165402454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614167167684" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -242,7 +235,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614150185122</updated>
-      <workItem from="1614150186454" duration="2802000" />
+      <workItem from="1614150186454" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1614151016662</created>
@@ -262,7 +255,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2802000" />
+    <option name="totallyTimeSpent" value="2868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />

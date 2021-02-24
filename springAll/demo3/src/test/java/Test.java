@@ -13,8 +13,8 @@ import entity.Person;
 public class Test {
 	public static void main(String[] args) throws SQLException {
 		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("spring.xml");
-//		Car car = (Car) applicationContext.getBean("car1");
-//		System.out.println(car);
+		Car car = (Car) applicationContext.getBean("car1");
+		System.out.println(car);
 		
 //		Car car2 = (Car) applicationContext.getBean("car2");
 //		System.out.println(car2);
