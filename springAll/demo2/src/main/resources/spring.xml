@@ -28,8 +28,8 @@
 		<property name="jdbcUrl" value="${url}"></property>
 	 </bean>
 	 
-	 <bean id="user2" class="entity.User" p:id="1" p:name="张三" p:age="23" p:car-ref="car"></bean>
+	 <bean id="user2" class="entity.User" p:id="100" p:name="张三100" p:age="23100" p:car-ref="car2"></bean>
 	
-	 <bean id="car2" class="entity.Car" p:id="1" p:brand="宝马"></bean>
+	 <bean id="car2" class="entity.Car" p:id="18" p:brand="宝马18"></bean>
 	 
 </beans>

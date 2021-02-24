@@ -12,9 +12,10 @@ import entity.User;
 public class Test {
 	public static void main(String[] args) {
 		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("spring.xml");
-//		User user = (User) applicationContext.getBean("user");
-//		User user2 = (User) applicationContext.getBean("user");
-//		System.out.println(user == user2);
+		User userX1 = (User) applicationContext.getBean("user");
+		User userX2 = (User) applicationContext.getBean("user");
+		System.out.println(userX1 == userX2);
+		System.out.println(userX1);
 		
 //		User user = (User) applicationContext.getBean("user");
 //		Car car = (Car) applicationContext.getBean("car");
@@ -29,8 +30,8 @@ public class Test {
 //		}
 //		System.out.println(conn);
 		
-		User user = (User) applicationContext.getBean("user");
+		User user = (User) applicationContext.getBean("user2");
 		System.out.println(user);
-		
+
 	}
 }

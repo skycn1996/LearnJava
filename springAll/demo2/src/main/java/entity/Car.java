@@ -17,7 +17,7 @@ public class Car {
 		this.id = id;
 	}
 	public Car() {
-		System.out.println("创建了Car对象");
+		System.out.println("创建了Car对象:");
 	}
 	@Override
 	public String toString() {
