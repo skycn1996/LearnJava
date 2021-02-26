@@ -2,37 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b07b950b-c717-4e55-9c71-2f72efe52936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/dao/impl/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/test/java/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/demo5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/dao/impl/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/test/java/TestUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/demo6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/wxl/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/wxl/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/wxl/dao/impl/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/wxl/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/wxl/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/wxl/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/test/java/TestUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo5/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -171,8 +157,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="58" />
+    <option name="x" value="734" />
+    <option name="y" value="251" />
     <option name="width" value="1935" />
     <option name="height" value="930" />
   </component>
@@ -249,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614310442939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614310848258" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
