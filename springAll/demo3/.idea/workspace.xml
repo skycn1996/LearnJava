@@ -2,28 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b07b950b-c717-4e55-9c71-2f72efe52936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../springxml01/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/springxml01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/src/main/java/com/wxl/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/src/main/java/com/wxl/services/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/src/main/resources/spring-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springxml01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/srpingmvc01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/demo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/springmvc02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/handler/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/handler/HelloHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springxml01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springxml01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srpingmvc01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -158,13 +157,15 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="125" />
-    <option name="y" value="93" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="11" />
+    <option name="y" value="121" />
     <option name="width" value="1935" />
     <option name="height" value="930" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -235,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614222664068" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614307860143" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -282,7 +283,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614164868906</updated>
-      <workItem from="1614164870377" duration="3579000" />
+      <workItem from="1614164870377" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1614164917052</created>
@@ -316,11 +317,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3579000" />
+    <option name="totallyTimeSpent" value="3623000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
