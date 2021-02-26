@@ -2,37 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26be9220-72d7-4cad-aeb6-ed1089d5221f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/dao/impl/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/wxl/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo4/src/test/java/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/demo5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/dao/impl/UserDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/java/com/wxl/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo5/src/test/java/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/demo7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/wxl/context/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/wxl/context/impl/ClassPathXmlApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/wxl/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/wxl/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/test/java/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo6/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,7 +40,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/entity/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
+            <state relative-caret-position="-100">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -79,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="175">
               <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
@@ -118,9 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="CatdeaLogs" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +152,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,6 +212,7 @@
       <updated>1614147552216</updated>
       <workItem from="1614147553846" duration="1586000" />
       <workItem from="1614309746761" duration="610000" />
+      <workItem from="1614317856429" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1614147709854</created>
@@ -247,12 +232,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2196000" />
+    <option name="totallyTimeSpent" value="2773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -306,7 +292,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="175">
           <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
@@ -320,7 +306,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/entity/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
+        <state relative-caret-position="-100">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
