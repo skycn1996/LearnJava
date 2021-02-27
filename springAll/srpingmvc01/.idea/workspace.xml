@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="srpingmvc01:war" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b1b9a434-39c0-4df6-9fa6-3616aca3b285" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/demo8aop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/aop/LoggerAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/utils/Cal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/utils/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/utils/impl/CalImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/resources/spring-aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/test/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/test/java/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/southwind/handler/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/southwind/handler/HelloHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/annotation/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/annotation/MyRequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/servlet/MyDispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/view/MyViewResolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/handler/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc02/src/main/java/com/southwind/handler/HelloHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc02/src/main/resources/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc02/src/main/resources/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc02/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc02/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc02/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="400">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -64,17 +58,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="350">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="225">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -116,6 +110,13 @@
       </list>
     </option>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -145,9 +146,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="453" />
-    <option name="y" value="309" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="37" />
+    <option name="y" value="70" />
     <option name="width" value="1935" />
     <option name="height" value="930" />
   </component>
@@ -176,6 +177,13 @@
               <item name="srpingmvc01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="srpingmvc01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="srpingmvc01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="srpingmvc01" type="b2602c69:ProjectViewProjectNode" />
@@ -216,13 +224,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614307860190" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SpringMVCImitate-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WXL\LearnJava\springAll\srpingmvc01\src\main\java" />
+      <recent name="F:\WXL\LearnJava\springAll\srpingmvc01\src\main\resources" />
+      <recent name="F:\WXL\LearnJava\springAll\srpingmvc01\src\main\webapp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -324,15 +339,23 @@
       <option name="presentableId" value="Default" />
       <updated>1614219219501</updated>
       <workItem from="1614219221166" duration="2595000" />
-      <workItem from="1614385797398" duration="438000" />
+      <workItem from="1614385797398" duration="2390000" />
     </task>
+    <task id="LOCAL-00001" summary="spring MVC 项目 简单">
+      <created>1614386305301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614386305301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3033000" />
+    <option name="totallyTimeSpent" value="4985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
@@ -373,6 +396,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring MVC 项目 简单" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring MVC 项目 简单" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="uml://MAVEN/com.wxl:srpingmvc01:1.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -392,16 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/southwind/handler/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -416,17 +433,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="400">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>

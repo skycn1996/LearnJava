@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26be9220-72d7-4cad-aeb6-ed1089d5221f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/demo8aop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/aop/LoggerAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/utils/Cal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/utils/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/java/com/wxl/utils/impl/CalImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/main/resources/spring-aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/test/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo8aop/src/test/java/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/src/main/java/com/southwind/handler/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/src/main/java/com/southwind/handler/HelloHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/src/main/resources/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../srpingmvc01/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../srpingmvc01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../srpingmvc01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../srpingmvc01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../srpingmvc01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../srpingmvc01/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -167,9 +144,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="453" />
-    <option name="y" value="309" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-369" />
+    <option name="y" value="366" />
     <option name="width" value="1935" />
     <option name="height" value="930" />
   </component>
@@ -296,7 +273,7 @@
       <updated>1614147552216</updated>
       <workItem from="1614147553846" duration="1586000" />
       <workItem from="1614309746761" duration="610000" />
-      <workItem from="1614317856429" duration="2269000" />
+      <workItem from="1614317856429" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="新建">
       <created>1614147709854</created>
@@ -316,11 +293,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4465000" />
+    <option name="totallyTimeSpent" value="4645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
